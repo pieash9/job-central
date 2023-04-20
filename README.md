@@ -4,7 +4,7 @@ Job Central is a web application that helps job seekers find job listings easily
 
 ## Live Demo :computer:
 
-You can check out the **[live demo](https://flourishing-moonbeam-d62fb7.netlify.app/applied_jobs)** of Job Central.
+You can check out the **[live demo link](https://flourishing-moonbeam-d62fb7.netlify.app/applied_jobs)** of Job Central.
 
 ## Technologies Used :rocket:
 

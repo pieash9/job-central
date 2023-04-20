@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "companyLogo": "https://i.ibb.co/Qf1Hkc3/image.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "Google Inc.",
+    "remoteOrOnsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "jobDescription": "We're looking for an experienced software engineer to join our team and help us build the next generation of our platform.",
+    "jobResponsibility": "Responsibilities include designing and implementing new features, improving existing code, and working with our product and design teams to create great user experiences.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software development",
+
+    "phone": "555-555-5555",
+    "email": "jobs@example.com",
+    "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+  },
+  {
+    "id": 1002,
+    "companyLogo": "https://i.ibb.co/BgxHZb7/image.png",
+    "jobTitle": "Product Manager",
+    "companyName": "Netflix Inc.",
+    "remoteOrOnsite": "Onsite",
+    "location": "New York, NY",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$120,000 - $150,000",
+    "jobDescription": "We're seeking a talented product manager to help us take our product to the next level.",
+    "jobResponsibility": "Responsibilities include defining product strategy, working with cross-functional teams to develop and launch products, and analyzing user feedback to continuously improve our offerings.",
+    "educationalRequirements": "Bachelor's degree in Business, Marketing, or related field",
+    "experiences": "5+ years of experience in product management",
+
+    "phone": "555-555-5555",
+    "email": "jobs@example.com",
+    "address": "Dhanmondi 27, Dhaka, Bangladesh"
+  },
+  {
+    "id": 1003,
+    "companyLogo": "https://i.ibb.co/PtLKjzJ/image.png",
+    "jobTitle": "Marketing Coordinator",
+    "companyName": "Amazon.com Inc",
+    "remoteOrOnsite": "Remote",
+    "location": "Los Angeles, CA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$60,000 - $80,000",
+    "jobDescription": "We're seeking a talented marketing coordinator to join our team and help us execute successful marketing campaigns.",
+    "jobResponsibility": "Responsibilities include creating and executing marketing plans, analyzing campaign data to optimize performance, and collaborating with cross-functional teams to ensure successful launches.",
+    "educationalRequirements": "Bachelor's degree in Marketing, Communications, or related field",
+    "experiences": "2+ years of experience in marketing",
+
+    "phone": "555-555-5555",
+    "email": "jobs@example.com",
+    "address": "A 25/42 Savar, Dhaka, Bangladesh"
+  },
+  {
+    "id": 1004,
+    "companyLogo": "https://i.ibb.co/rQn5g0b/image.png",
+    "jobTitle": "Graphic Designer",
+    "companyName": "Tesla Inc.",
+    "remoteOrOnsite": "Onsite",
+    "location": "Chicago, IL",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$70,000 - $90,000",
+    "jobDescription": "We're seeking a talented graphic designer to help us create stunning visuals for our brand and products.",
+    "jobResponsibility": "Responsibilities include creating designs for marketing materials, product packaging, and other branding initiatives. You will also work closely with our marketing and product teams to develop creative concepts and execute design projects from start to finish.",
+    "educationalRequirements": "Bachelor's degree in Graphic Design or related field",
+    "experiences": "3+ years of experience in graphic design",
+
+    "phone": "555-555-5555",
+    "email": "jobs@example.com",
+    "address": "Dhanmondi 23,  Dhaka, Bangladesh"
+  },
+  {
+    "id": 1005,
+    "companyLogo": "https://i.ibb.co/pfDGkrx/image.png",
+    "jobTitle": "Data Analyst",
+    "companyName": "BRAC Bank Limited.",
+    "remoteOrOnsite": "Remote",
+    "location": "Seattle, WA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We're seeking a talented data analyst to help us make data-driven decisions and optimize our business processes.",
+    "jobResponsibility": "Responsibilities include analyzing large datasets, developing and maintaining dashboards and reports, and ident100ifying trends and insights that drive business value.",
+    "educationalRequirements": "Bachelor's degree in Mathematics, Statistics, or related field",
+    "experiences": "3+ years of experience in data analysis or related field",
+
+    "phone": "555-555-5555",
+    "email": "jobs@example.com",
+    "address": "Jigatola , Dhanmondi Dhaka, Bangladesh"
+  },
+  {
+    "id": 1006,
+    "companyLogo": "https://i.ibb.co/27KyN0K/image.png",
+    "jobTitle": "Customer Support Specialist",
+    "companyName": "Meta Platforms Inc.",
+    "remoteOrOnsite": "Onsite",
+    "location": "Austin, TX",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$50,000 - $70,000",
+    "jobDescription": "We're seeking a customer support specialist to help us provide exceptional support to our customers and ensure their satisfaction with our products.",
+    "jobResponsibility": "Responsibilities include responding to customer inquiries and resolving issues via email, phone, and chat. You will also work closely with our product and engineering teams to identify and resolve bugs and other issues.",
+    "educationalRequirements": "Bachelor's degree in a related field",
+    "experiences": "1+ years of experience in customer support or related field",
+
+    "phone": "555-555-5555",
+    "email": "jobs@example.com",
+    "address": "Rajabazar , Dhaka, Bangladesh"
+  }
+]

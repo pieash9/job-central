@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/PgYMDGB/002-accounts.png",
+    "job_category_name": "Account & Finance",
+    "jobs_available": 100
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/vHVqsWp/003-technology.png",
+    "job_category_name": "Engineering",
+    "jobs_available": 250
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/CvQWHP0/001-profit.png",
+    "job_category_name": "Marketing",
+    "jobs_available": 75
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/G3S4ZJj/004-technical-support.png",
+    "job_category_name": "Information Technology",
+    "jobs_available": 400
+  }
+]

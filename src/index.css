@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button-primary{
+    @apply btn px-5 capitalize text-base bg-gradient-to-r from-purple-600 to-purple-500 hover:from-purple-700  hover:to-purple-600 text-white
+}
+.button-secondary{
+    @apply btn btn-sm rounded-sm capitalize text-base bg-gradient-to-r from-purple-600 to-purple-500 hover:from-purple-700  hover:to-purple-600 text-white
+}
+
+.my-container{
+    @apply mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl 
+}
+
+.text-gradient{
+    @apply text-transparent  bg-clip-text bg-gradient-to-r from-purple-600 to-purple-400 
+}
+.active{
+    @apply font-semibold tracking-wide text-purple-600 transition-colors duration-200
+  }
+  
+  .default{
+    @apply font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-purple-600
+  }
